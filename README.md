@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Camila Mandai</h1>
+<h1 align="center">I'm Camila Mandai</h1>
 <h3 align="center">A fullstack developer from Brasil</h3>
 
 <h3 align="left">Languages and Tools:</h3>
